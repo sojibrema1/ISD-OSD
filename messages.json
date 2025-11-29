@@ -1,5 +1,8 @@
+[
   {
-  "show": true,
-  "message": "🚀 New Version Released! Please update.",
-  "expiry": "2025-12-31T23:59:59Z"
-}
+    "id": "msg_1",
+    "message": "This is a live message!",
+    "expiry": "2025-12-31T23:59:59Z",
+    "show": true
+  }
+]
